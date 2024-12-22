@@ -2,7 +2,7 @@
 
 ## Overview
 
-Wanderlust Adventures is a responsive travel website showcasing various destinations and travel experiences. This project is designed to demonstrate skills in HTML, CSS, and JavaScript, focusing on creating an attractive and user-friendly interface for a travel agency.
+Wonderful Adventures is a responsive travel website showcasing various destinations and travel experiences. This project is designed to demonstrate skills in HTML, CSS, and JavaScript, focusing on creating an attractive and user-friendly interface for a travel agency.
 
 ## Features
 
